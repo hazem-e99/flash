@@ -1,0 +1,6 @@
+{
+  "name": "أسد السات — ASAD AL SAT",
+  "description": "المكتبة المتكاملة لفلاشات وسوفت وير أجهزة الريسيفر والستالايت والدعم الفني",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
